@@ -50,7 +50,7 @@
         "ng2-toastr": "^4.1.2",
         "ngx-bootstrap": "^4.2.0",
         "ngx-quill": "^4.0.0",
-        "node-sass": "^4.12.0",
+        "node-sass": "^4.13.1",
         "pace-js": "^1.0.2",
         "popper": "^1.0.1",
         "popper.js": "^1.12.5",
